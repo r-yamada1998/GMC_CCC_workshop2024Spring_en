@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 研究会「分子雲衝突が駆動する巨大分子雲の進化と星形成」
+title: Evolution of giant molecular clouds triggered by cloud-cloud collision 
 author:
   name: Rin Yamada
   email: Yamada[at]a.phys.nagoya-u.ac.jp
 
-description: この研究会はJSPS 科研費22H00152(代表:福井)および特別研究員奨励費22KJ1604(代表:山田)によってサポートされています。
+description: The workshop is supported by JSPS KAKENHI 22H00152(PI. Fukui) and 22KJ1604(PI. Yamada)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -33,7 +33,7 @@ theme: minima
 minima:
   skin: solarized-light
   social_links:
-    - {platform: github, user_url: "https://github.com/r-yamada1998/GMC_CCC_workshop2024Spring.git"}
+    - {platform: github, user_url: "https://github.com/r-yamada1998/GMC_CCC_workshop2024Spring_en.git"}
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
