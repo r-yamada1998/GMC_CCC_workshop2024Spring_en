@@ -25,7 +25,7 @@ Presentation: Japanese/English、
 Slides: English recommended
 
 ## Invited talks
-現在交渉中
+Masato Kobayashi (Universität zu Köln) and negotiation on-going
 
 ## Contact
 fukui@a.phys.nagoya-u.ac.jp
