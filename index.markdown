@@ -35,4 +35,3 @@ Rin Yamada, Kengo Tachihara, Yasuo Fukui (Nagoya-university), Fumiya Maeda (The 
 
 ## Local Organizing Committee (LOC)
 Rin Yamada, Fumika Demachi (Naboya university)
-山田麟、出町史夏(名古屋大学)
