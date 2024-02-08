@@ -29,7 +29,7 @@ Masato Kobayashi (Universität zu Köln)
 
 Jin Koda (Stony Brook univeristy)
 
-Yasumasa Watanabe (Shibaura institute of technology)
+Yoshimasa Watanabe (Shibaura institute of technology)
 
 ## Memorial lecture
 Clare Dobbs (Univeristy of Exeter)
