@@ -25,13 +25,20 @@ Presentation: Japanese/English、
 Slides: English recommended
 
 ## Invited talks
-Masato Kobayashi (Universität zu Köln) and negotiation on-going
+Masato Kobayashi (Universität zu Köln)
+
+Jin Koda (Stony Brook univeristy)
+
+Yasumasa Watanabe (Shibaura institute of technology)
+
+## Memorial lecture
+Clare Dobbs (Univeristy of Exeter)
 
 ## Contact
 fukui@a.phys.nagoya-u.ac.jp
 
 ## Scientific Organizing Committee (SOC)
-Rin Yamada, Kengo Tachihara, Yasuo Fukui (Nagoya-university), Fumiya Maeda (The University of Tokyo), Kohji Ohta (Kyoto university), Asao Habe (Hokkaido-university), Tsuyoshi Inoue(Konan university)
+Rin Yamada, Kengo Tachihara, Yasuo Fukui (Nagoya-university), Fumiya Maeda (The University of Tokyo), Rei Enokiya(Kyushu-sangyo university), Kohji Ohta (Kyoto university), Asao Habe (Hokkaido-university), Tsuyoshi Inoue(Konan university)
 
 ## Local Organizing Committee (LOC)
 Rin Yamada, Fumika Demachi (Naboya university)
